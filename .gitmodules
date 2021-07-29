@@ -1,0 +1,3 @@
+[submodule "rplugin/python/floobits/common"]
+	path = rplugin/python/floobits/common
+	url = git@github.com:dodomorandi/plugin-common-python.git
